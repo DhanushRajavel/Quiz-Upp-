@@ -1,4 +1,3 @@
-Here's a README section for your new quiz app, "Quiz Upp!":
 
 # Quiz Upp!
 
