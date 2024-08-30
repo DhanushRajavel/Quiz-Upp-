@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Dhanush Rajavel - [LinkedIn](https://www.linkedin.com/in/dhanush-rajavel) - dhanushrajavel24@gmail.com
+Dhanush Rajavel - [LinkedIn](https://www.linkedin.com/in/dhanush-rajavel-070ba7225/) - dhanushrajavel24@gmail.com
 
 Project Link: [GitHub Repository](https://github.com/DhanushRajavel/Quiz-Upp)
 ```
