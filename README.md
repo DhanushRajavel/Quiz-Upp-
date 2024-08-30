@@ -16,18 +16,15 @@ Quiz Upp! is a fun and interactive quiz app designed to challenge your knowledge
 - **Tools and Authentication**: Firebase
 - **API**: OpenDB (opendb.com)
 
-## About OpenDB API
+About Open Trivia Database (opentdb.com)
+The Open Trivia Database (OpenTDB) is a free and open API that provides a large database of trivia questions. The API allows you to fetch questions in various categories, difficulty levels, and formats (multiple-choice or true/false). It is commonly used in quiz applications due to its extensive and regularly updated collection of trivia questions.
 
-The OpenDB API is a free-to-use public API that provides a vast collection of trivia questions across various categories. It allows developers to fetch multiple-choice questions and answers, making it ideal for quiz and trivia applications. With a simple HTTP request, you can retrieve a wide range of questions, including their difficulty level, category, and type (multiple-choice or true/false).
-
-### Key Features of OpenDB API:
-
-- **Wide Variety of Questions**: Includes questions across different categories like Science, History, Sports, and more.
-- **Difficulty Levels**: Questions are available in easy, medium, and hard difficulty levels.
-- **Question Types**: Supports multiple-choice and true/false question formats.
-
-For more information, visit the [OpenDB website](https://opendb.com).
-
+Key Features:
+Free to Use: No authentication or API key is required.
+Variety of Questions: Offers questions across multiple categories like General Knowledge, Science, History, Entertainment, and more.
+Difficulty Levels: Questions are available in easy, medium, and hard levels.
+Question Formats: Supports both multiple-choice and true/false questions.
+For more information, visit the Open Trivia Database.
 ## Getting Started
 
 To set up the project locally, follow these steps:
@@ -56,11 +53,6 @@ To set up the project locally, follow these steps:
 4. Set up Firebase:
    - Follow Firebase setup instructions to add Firebase to your Flutter project.
    - Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) to the respective folders.
-
-5. Replace the API key placeholder in the configuration file with your OpenDB API key:
-   ```dart
-   const String openDbApiKey = 'YOUR_API_KEY';
-   ```
 
 6. Run the app:
    ```bash
