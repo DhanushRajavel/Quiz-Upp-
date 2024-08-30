@@ -1,6 +1,5 @@
 Here's a README section for your new quiz app, "Quiz Upp!":
 
-```markdown
 # Quiz Upp!
 
 Quiz Upp! is a fun and interactive quiz app designed to challenge your knowledge across various topics. The app is developed using Flutter and Dart, with Firebase integrated for tools and authentication. The quizzes are dynamically generated using the OpenDB API.
